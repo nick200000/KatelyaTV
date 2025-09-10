@@ -487,6 +487,7 @@ curl -H "Authorization: Bearer $UPSTASH_TOKEN" \
 **配置地址生成**：
 
 - JSON 格式：`https://你的域名/api/tvbox?format=json`
+- base64 格式：`https://你的域名/api/tvbox?format=base64`
 - TXT 格式：`https://你的域名/api/tvbox?format=txt`
 - XML 格式：`https://你的域名/api/tvbox?format=xml`
 
